@@ -1,0 +1,15 @@
+name: ✨ Feature Request
+description: Propose a new symbolic or system-level enhancement
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Your Proposal
+      description: What would you like to add or change?
+  - type: input
+    id: purpose
+    attributes:
+      label: Purpose or Use Case
+      description: Why is this useful? What will it enable?
