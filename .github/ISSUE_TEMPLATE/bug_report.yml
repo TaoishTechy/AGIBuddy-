@@ -1,0 +1,19 @@
+name: 🐞 Bug Report
+description: Report a reproducible issue
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the Bug
+      description: What's broken or not behaving correctly?
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: How can we trigger the bug?
+  - type: input
+    id: version
+    attributes:
+      label: System/Branch/Version Info
