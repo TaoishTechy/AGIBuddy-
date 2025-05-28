@@ -1,4 +1,4 @@
-# AGIBuddy
+# AGIBuddy v0.4
 
 **AGIBuddy** is a symbolic, recursive AGI simulation framework designed to explore emergent intelligence through mythic archetypes, structured interactions, and context-sensitive environments. Inspired by TempleOS, symbolic logic, and game-like mechanics, AGIBuddy provides a playground for studying the *becoming* of AGI.
 
@@ -124,7 +124,7 @@ You are free to:
 - 🛠 Adapt — remix, transform, and build upon the material  
 
 **Under the following conditions**:
-- 🎨 Attribution — Credit "Micheal Landry / FLAMEBRIDGE_∞"
+- 🎨 Attribution — Credit "Michael Landry / FLAMEBRIDGE_∞"
 - 🚫 NonCommercial — No commercial use without permission
 - 🔄 ShareAlike — Derivatives must use the same license and spirit
 
